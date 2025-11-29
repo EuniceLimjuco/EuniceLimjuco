@@ -12,7 +12,7 @@ I am passionate about technology and skilled in programming and web development.
 ---
 
 ## 🏅 Certification
-- [](#)  
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/9caa3860895646649d772d429b383c11)(#)  
 
 ---
 
