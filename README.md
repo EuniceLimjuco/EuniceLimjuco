@@ -8,3 +8,20 @@ I am passionate about technology and skilled in programming and web development.
 - **BS Information Technology**  
   New Era University  
   2024–Present
+
+---
+
+## 🏅 Certification
+- [](#)  
+
+---
+
+## 🛠️ Skill Sets
+- **Programming:** Java, JavaScript, HTML/CSS, PHP
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Visual Studio Code, IntelliJ IDEA, Lucidchart
+
+---
+
+## 🤝 Let’s Connect!
+- **Email:** [kathleeneunice0224@gmail.com](#)  
