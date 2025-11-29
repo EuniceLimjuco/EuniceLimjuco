@@ -1,6 +1,6 @@
 # Hi! I'm Kathleen Eunice Limjuco 👋
 
-I’m a BS Information Technology student passionate about building projects that help me grow as a developer. I enjoy exploring web development, databases, and system design, and I’m always excited to learn new technologies and improve my skills.
+I am passionate about technology and skilled in programming and web development. I enjoy tackling challenging problems and creating efficient, user-friendly solutions. My journey in tech started with my studies in BS Information Technology.
 
 ---
 
