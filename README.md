@@ -14,7 +14,8 @@ I am passionate about technology and skilled in programming and web development.
 ## 🏅 Certification
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/9caa3860895646649d772d429b383c11)
 - [OCI Foundations Associate (2025) ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6DD1B94F3AB703C6BE18FBB1FB5917FBAE968CD9ECEAD0AC312A69D7545239EE)
-- [Oracle Data Platform Foundations Associate (2025) ](https://catalog-education.oracle.com/ords/certview/sharebadge?id=90355CF9731FB1D5BC50F7516324CC7E81D3B649C90420E4567A598476268A91)
+- [Oracle Data Platform Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=90355CF9731FB1D5BC50F7516324CC7E81D3B649C90420E4567A598476268A91)
+- [OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0D6951A721BA4B822BE10BB63265F040862B52E5011D67C39EE0E1220F1D4016)
 
 ---
 
