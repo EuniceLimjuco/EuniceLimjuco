@@ -27,6 +27,125 @@ I am passionate about technology and skilled in programming and web development.
 ---
 
 ### 💻 Personal Project
+
+# NEU Library Visitor Management System
+
+## 📌 Project Overview
+
+The NEU Library Visitor Management System is a web-based application designed to track, manage, and analyze library visitors. It allows students and employees to log their visits while providing administrators with tools to monitor activity, manage users, and generate visitor statistics.
+
+---
+
+## 🚀 Features
+
+### 👤 User Features
+
+* Google Sign-In authentication
+* Select college/department
+* Select purpose of visit
+* Automatic check-in logging
+* Automatic check-out (time-based or manual)
+
+---
+
+### 🛠 Admin Features
+
+* Admin login via Google account
+* Real-time visitor monitoring
+* User management (block/unblock users)
+* Block reason tracking
+* Activity logs with pagination
+
+---
+
+### 📊 Visitor Statistics Dashboard
+
+* View statistics by:
+
+  * Day
+  * Week
+  * Custom date range
+* Summary cards showing:
+
+  * Total visitors
+  * Students
+  * Employees
+  * Checked-in users
+  * Checked-out users
+  * Most common purpose
+* Filter statistics by:
+
+  * College/Department
+  * Purpose of visit
+  * Role (Student / Employee)
+
+---
+
+## 🗂 System Pages
+
+* `index.html` – Landing page and login
+* `purpose.html` – Purpose selection
+* `welcome.html` – Welcome screen
+* `admindb.html` – Admin dashboard
+* `user_management.html` – User management & statistics
+* `block_list.html` – Blocked users list
+
+---
+
+## 🧠 Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* Supabase (Database & Authentication)
+* Google OAuth
+
+---
+
+## 🔐 Admin Access
+
+Use this account to access admin features:
+
+**Email:** [jcesperanza@neu.edu.ph](mailto:jcesperanza@neu.edu.ph)
+
+---
+
+## 🌐 Live Website
+
+[Paste your deployed link here]
+
+---
+
+## 📂 GitHub Repository
+
+[Paste your GitHub repo link here]
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Download or clone the repository
+2. Open the project in VS Code
+3. Run using Live Server or open `index.html`
+4. Ensure internet connection for Supabase & Google login
+
+---
+
+## 📝 Notes
+
+* The system uses Supabase for storing visitor logs and blocked users.
+* Admin actions such as blocking/unblocking users are recorded in the database.
+* Visitor statistics update dynamically based on filters and selected date range.
+
+---
+
+## 👨‍💻 Developer
+
+Name: [Your Name Here]
+Course/Section: [Your Course Here]
+
+---
+
 - [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
 
 ---
