@@ -102,23 +102,9 @@ The NEU Library Visitor Management System is a web-based application designed to
 
 ---
 
-## 🔐 Admin Access
-
-Use this account to access admin features:
-
-**Email:** [jcesperanza@neu.edu.ph](mailto:jcesperanza@neu.edu.ph)
-
----
-
 ## 🌐 Live Website
 
-[Paste your deployed link here]
-
----
-
-## 📂 GitHub Repository
-
-[Paste your GitHub repo link here]
+- [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
 
 ---
 
@@ -136,17 +122,6 @@ Use this account to access admin features:
 * The system uses Supabase for storing visitor logs and blocked users.
 * Admin actions such as blocking/unblocking users are recorded in the database.
 * Visitor statistics update dynamically based on filters and selected date range.
-
----
-
-## 👨‍💻 Developer
-
-Name: [Your Name Here]
-Course/Section: [Your Course Here]
-
----
-
-- [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
 
 ---
 
