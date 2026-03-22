@@ -36,6 +36,12 @@ The NEU Library Visitor Management System is a web-based application designed to
 
 ---
 
+## 🌐 Live Website
+
+
+- [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
+---
+
 ## 🚀 Features
 
 ### 👤 User Features
@@ -101,13 +107,10 @@ The NEU Library Visitor Management System is a web-based application designed to
 * Google OAuth
 
 ---
+
 ## 💻 System Codes
 * [NEU Library System Code](https://drive.google.com/drive/folders/1XUJDx7pVqHJjzKTqpnRp-EAesn1ko09d?usp=drive_link)
----
 
-## 🌐 Live Website
-
-- [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
 ---
 
 ## ⚙️ How to Run Locally
