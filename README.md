@@ -35,7 +35,8 @@ I am passionate about technology and skilled in programming and web development.
 The NEU Library Visitor Management System is a web-based application designed to track, manage, and analyze library visitors. It allows students and employees to log their visits while providing administrators with tools to monitor activity, manage users, and generate visitor statistics.
 
 ## 🌐 Live Website
-[neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
+- [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
+
 
 ## 🚀 Features
 
