@@ -26,5 +26,10 @@ I am passionate about technology and skilled in programming and web development.
 
 ---
 
+### 💻 Personal Project
+-
+
+---
+
 ## 🤝 Let’s Connect!
 - **Email:** [kathleeneunice0224@gmail.com](#)  
