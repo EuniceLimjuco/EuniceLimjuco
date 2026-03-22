@@ -34,13 +34,9 @@ I am passionate about technology and skilled in programming and web development.
 
 The NEU Library Visitor Management System is a web-based application designed to track, manage, and analyze library visitors. It allows students and employees to log their visits while providing administrators with tools to monitor activity, manage users, and generate visitor statistics.
 
----
-
 ## 🌐 Live Website
 
-
 - [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
----
 
 ## 🚀 Features
 
@@ -52,8 +48,6 @@ The NEU Library Visitor Management System is a web-based application designed to
 * Automatic check-in logging
 * Automatic check-out (time-based or manual)
 
----
-
 ### 🛠 Admin Features
 
 * Admin login via Google account
@@ -61,8 +55,6 @@ The NEU Library Visitor Management System is a web-based application designed to
 * User management (block/unblock users)
 * Block reason tracking
 * Activity logs with pagination
-
----
 
 ### 📊 Visitor Statistics Dashboard
 
@@ -85,8 +77,6 @@ The NEU Library Visitor Management System is a web-based application designed to
   * Purpose of visit
   * Role (Student / Employee)
 
----
-
 ## 🗂 System Pages
 
 * `index.html` – Landing page and login
@@ -96,8 +86,6 @@ The NEU Library Visitor Management System is a web-based application designed to
 * `user_management.html` – User management & statistics
 * `block_list.html` – Blocked users list
 
----
-
 ## 🧠 Technologies Used
 
 * HTML
@@ -106,12 +94,8 @@ The NEU Library Visitor Management System is a web-based application designed to
 * Supabase (Database & Authentication)
 * Google OAuth
 
----
-
 ## 💻 System Codes
 * [NEU Library System Code](https://drive.google.com/drive/folders/1XUJDx7pVqHJjzKTqpnRp-EAesn1ko09d?usp=drive_link)
-
----
 
 ## ⚙️ How to Run Locally
 
@@ -119,8 +103,6 @@ The NEU Library Visitor Management System is a web-based application designed to
 2. Open the project in VS Code
 3. Run using Live Server or open `index.html`
 4. Ensure internet connection for Supabase & Google login
-
----
 
 ## 📝 Notes
 
