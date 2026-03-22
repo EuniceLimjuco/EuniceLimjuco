@@ -36,9 +36,9 @@ The NEU Library Visitor Management System is a web-based application designed to
 
 ## 🌐 Live Website
 - [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
+--
 
-
-🚀 Features
+## 🚀 Features
 
 ### 👤 User Features
 
