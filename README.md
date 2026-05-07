@@ -3,6 +3,18 @@
 I am passionate about technology and skilled in programming and web development. I enjoy tackling challenging problems and creating efficient, user-friendly solutions. My journey in tech started with my studies in BS Information Technology.
 
 ---
+### 💻 Personal Project
+
+# NEU Library Visitor Management System
+
+## 📌 Project Overview
+
+The NEU Library Visitor Management System is a web-based application designed to track, manage, and analyze library visitors. It allows students and employees to log their visits while providing administrators with tools to monitor activity, manage users, and generate visitor statistics.
+
+## 🌐 Live Website
+- [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
+
+---
 
 ## 🎓 Education
 - **BS Information Technology**  
@@ -23,19 +35,6 @@ I am passionate about technology and skilled in programming and web development.
 - **Programming:** Java, JavaScript, HTML/CSS, PHP
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Visual Studio Code, IntelliJ IDEA, Lucidchart
-
----
-
-### 💻 Personal Project
-
-# NEU Library Visitor Management System
-
-## 📌 Project Overview
-
-The NEU Library Visitor Management System is a web-based application designed to track, manage, and analyze library visitors. It allows students and employees to log their visits while providing administrators with tools to monitor activity, manage users, and generate visitor statistics.
-
-## 🌐 Live Website
-- [neu-library-system-log](https://neu-library-system-log.xo.je/index.html)
 
 ---
 
